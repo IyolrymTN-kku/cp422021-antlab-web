@@ -1,7 +1,7 @@
 <script setup>
-import VerticalNavSectionTitle from '@/@layouts/components/VerticalNavSectionTitle.vue'
-import VerticalNavGroup from '@layouts/components/VerticalNavGroup.vue'
-import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
+import VerticalNavSectionTitle from '@/@layouts/components/VerticalNavSectionTitle.vue';
+import VerticalNavGroup from '@layouts/components/VerticalNavGroup.vue';
+import VerticalNavLink from '@layouts/components/VerticalNavLink.vue';
 </script>
 
 <template>
@@ -25,7 +25,7 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
         title: 'CRM',
         href: 'https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/dashboards/crm',
         target: '_blank',
-        badgeContent: 'Pro',
+        // badgeContent: 'Pro',
         badgeClass: 'bg-light-primary text-primary',
       }"
     />
@@ -34,7 +34,7 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
         title: 'ECommerce',
         href: 'https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/dashboards/ecommerce',
         target: '_blank',
-        badgeContent: 'Pro',
+        // badgeContent: 'Pro',
         badgeClass: 'bg-light-primary text-primary',
       }"
     />
@@ -43,7 +43,7 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
         title: 'Academy',
         href: 'https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/dashboards/academy',
         target: '_blank',
-        badgeContent: 'Pro',
+        // badgeContent: 'Pro',
         badgeClass: 'bg-light-primary text-primary',
       }"
     />
@@ -52,7 +52,7 @@ import VerticalNavLink from '@layouts/components/VerticalNavLink.vue'
         title: 'Logistics',
         href: 'https://demos.themeselection.com/materio-vuetify-vuejs-admin-template/demo-1/dashboards/logistics',
         target: '_blank',
-        badgeContent: 'Pro',
+        // badgeContent: 'Pro',
         badgeClass: 'bg-light-primary text-primary',
       }"
     />
